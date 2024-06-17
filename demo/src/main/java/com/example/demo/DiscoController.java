@@ -1,3 +1,5 @@
+package main.java.com.example.demo;
+
 @RestController
 @RequestMapping("/api/discos")
 public class DiscoController {
