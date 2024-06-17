@@ -1,4 +1,4 @@
-import com.example.demo.model.Disco;
+package com.example.demo;
 
 public class DiscoService {
     // Supondo que você tenha uma lista de discos
